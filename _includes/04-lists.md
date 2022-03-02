@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My favourites things are:
+[] Love :heart:
+[x] happiness:smiley:
+
+* Food :pineapple:
+* Gym :medal_sport:
+  * Zen :relaxed:
